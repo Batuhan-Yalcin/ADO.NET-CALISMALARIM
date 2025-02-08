@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Emre\\Desktop\\ADO.NET DERSLER\u0130M\\ADO.NET \u0130LE VER\u0130 TABANINDAK\u0130 KAYDI C# \u0130LE S\u0130LME\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CA142A35-7F92-4801-8A37-8169837D3A6E}|ADO.NET \u0130LE VER\u0130 TABANINDAK\u0130 KAYDI C# \u0130LE S\u0130LME.csproj|c:\\users\\emre\\desktop\\ado.net dersler\u0130m\\ado.net \u0130le ver\u0130 tabanindak\u0130 kaydi c# \u0130le s\u0130lme\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA142A35-7F92-4801-8A37-8169837D3A6E}|ADO.NET \u0130LE VER\u0130 TABANINDAK\u0130 KAYDI C# \u0130LE S\u0130LME.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA142A35-7F92-4801-8A37-8169837D3A6E}|ADO.NET \u0130LE VER\u0130 TABANINDAK\u0130 KAYDI C# \u0130LE S\u0130LME.csproj|c:\\users\\emre\\desktop\\ado.net dersler\u0130m\\ado.net \u0130le ver\u0130 tabanindak\u0130 kaydi c# \u0130le s\u0130lme\\musteri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA142A35-7F92-4801-8A37-8169837D3A6E}|ADO.NET \u0130LE VER\u0130 TABANINDAK\u0130 KAYDI C# \u0130LE S\u0130LME.csproj|solutionrelative:musteri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Musteri.cs",
+              "DocumentMoniker": "C:\\Users\\Emre\\Desktop\\ADO.NET DERSLER\u0130M\\ADO.NET \u0130LE VER\u0130 TABANINDAK\u0130 KAYDI C# \u0130LE S\u0130LME\\Musteri.cs",
+              "RelativeDocumentMoniker": "Musteri.cs",
+              "ToolTip": "C:\\Users\\Emre\\Desktop\\ADO.NET DERSLER\u0130M\\ADO.NET \u0130LE VER\u0130 TABANINDAK\u0130 KAYDI C# \u0130LE S\u0130LME\\Musteri.cs",
+              "RelativeToolTip": "Musteri.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T17:02:36.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Emre\\Desktop\\ADO.NET DERSLER\u0130M\\ADO.NET \u0130LE VER\u0130 TABANINDAK\u0130 KAYDI C# \u0130LE S\u0130LME\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Emre\\Desktop\\ADO.NET DERSLER\u0130M\\ADO.NET \u0130LE VER\u0130 TABANINDAK\u0130 KAYDI C# \u0130LE S\u0130LME\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T16:40:05.737Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

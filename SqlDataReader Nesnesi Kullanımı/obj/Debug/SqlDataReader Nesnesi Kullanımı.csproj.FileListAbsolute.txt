@@ -1,0 +1,7 @@
+C:\Users\Emre\Desktop\ADO.NET DERSLERİM\SqlDataReader Nesnesi Kullanımı\bin\Debug\SqlDataReader Nesnesi Kullanımı.exe.config
+C:\Users\Emre\Desktop\ADO.NET DERSLERİM\SqlDataReader Nesnesi Kullanımı\bin\Debug\SqlDataReader Nesnesi Kullanımı.exe
+C:\Users\Emre\Desktop\ADO.NET DERSLERİM\SqlDataReader Nesnesi Kullanımı\bin\Debug\SqlDataReader Nesnesi Kullanımı.pdb
+C:\Users\Emre\Desktop\ADO.NET DERSLERİM\SqlDataReader Nesnesi Kullanımı\obj\Debug\SqlDataReader Nesnesi Kullanımı.csproj.AssemblyReference.cache
+C:\Users\Emre\Desktop\ADO.NET DERSLERİM\SqlDataReader Nesnesi Kullanımı\obj\Debug\SqlDataReader Nesnesi Kullanımı.csproj.CoreCompileInputs.cache
+C:\Users\Emre\Desktop\ADO.NET DERSLERİM\SqlDataReader Nesnesi Kullanımı\obj\Debug\SqlDataReader Nesnesi Kullanımı.exe
+C:\Users\Emre\Desktop\ADO.NET DERSLERİM\SqlDataReader Nesnesi Kullanımı\obj\Debug\SqlDataReader Nesnesi Kullanımı.pdb

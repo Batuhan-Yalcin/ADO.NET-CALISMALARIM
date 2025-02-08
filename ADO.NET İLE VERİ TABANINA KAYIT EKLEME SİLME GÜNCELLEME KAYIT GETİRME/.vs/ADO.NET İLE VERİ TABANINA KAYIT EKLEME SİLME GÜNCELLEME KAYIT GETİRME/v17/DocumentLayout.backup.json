@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Emre\\Desktop\\ADO.NET DERSLER\u0130M\\ADO.NET \u0130LE VER\u0130 TABANINA KAYIT EKLEME S\u0130LME G\u00DCNCELLEME KAYIT GET\u0130RME\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6C802097-DABF-4EE5-B6DD-26097AE7D65C}|ADO.NET \u0130LE VER\u0130 TABANINA KAYIT EKLEME S\u0130LME G\u00DCNCELLEME KAYIT GET\u0130RME.csproj|c:\\users\\emre\\desktop\\ado.net dersler\u0130m\\ado.net \u0130le ver\u0130 tabanina kayit ekleme s\u0130lme g\u00FCncelleme kayit get\u0130rme\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C802097-DABF-4EE5-B6DD-26097AE7D65C}|ADO.NET \u0130LE VER\u0130 TABANINA KAYIT EKLEME S\u0130LME G\u00DCNCELLEME KAYIT GET\u0130RME.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C802097-DABF-4EE5-B6DD-26097AE7D65C}|ADO.NET \u0130LE VER\u0130 TABANINA KAYIT EKLEME S\u0130LME G\u00DCNCELLEME KAYIT GET\u0130RME.csproj|c:\\users\\emre\\desktop\\ado.net dersler\u0130m\\ado.net \u0130le ver\u0130 tabanina kayit ekleme s\u0130lme g\u00FCncelleme kayit get\u0130rme\\musteri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C802097-DABF-4EE5-B6DD-26097AE7D65C}|ADO.NET \u0130LE VER\u0130 TABANINA KAYIT EKLEME S\u0130LME G\u00DCNCELLEME KAYIT GET\u0130RME.csproj|solutionrelative:musteri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Musteri.cs",
+              "DocumentMoniker": "C:\\Users\\Emre\\Desktop\\ADO.NET DERSLER\u0130M\\ADO.NET \u0130LE VER\u0130 TABANINA KAYIT EKLEME S\u0130LME G\u00DCNCELLEME KAYIT GET\u0130RME\\Musteri.cs",
+              "RelativeDocumentMoniker": "Musteri.cs",
+              "ToolTip": "C:\\Users\\Emre\\Desktop\\ADO.NET DERSLER\u0130M\\ADO.NET \u0130LE VER\u0130 TABANINA KAYIT EKLEME S\u0130LME G\u00DCNCELLEME KAYIT GET\u0130RME\\Musteri.cs",
+              "RelativeToolTip": "Musteri.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T17:16:01.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Emre\\Desktop\\ADO.NET DERSLER\u0130M\\ADO.NET \u0130LE VER\u0130 TABANINA KAYIT EKLEME S\u0130LME G\u00DCNCELLEME KAYIT GET\u0130RME\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Emre\\Desktop\\ADO.NET DERSLER\u0130M\\ADO.NET \u0130LE VER\u0130 TABANINA KAYIT EKLEME S\u0130LME G\u00DCNCELLEME KAYIT GET\u0130RME\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T17:15:41.887Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
